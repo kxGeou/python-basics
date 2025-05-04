@@ -5,4 +5,16 @@ course_name = "Python etc"
 
 course = "Python \"Programing"
 
-print(course)
+# print(course.lower())
+# print(course.upper())
+# print(course.title())
+# print(course.rstrip())
+# print(course.lstrip())
+# print(course.strip())
+# print(course.find("Python"))
+# print(course.replace("Python", "nothing"))
+# print("python" in course)
+
+x = input("x")
+print(x)
+# print(course)
